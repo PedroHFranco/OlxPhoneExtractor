@@ -1,0 +1,11 @@
+D:\Projetos\OlxPhoneExtraction\OlxPhoneExtraction\bin\Debug\netcoreapp2.2\OlxPhoneExtraction.deps.json
+D:\Projetos\OlxPhoneExtraction\OlxPhoneExtraction\bin\Debug\netcoreapp2.2\OlxPhoneExtraction.runtimeconfig.json
+D:\Projetos\OlxPhoneExtraction\OlxPhoneExtraction\bin\Debug\netcoreapp2.2\OlxPhoneExtraction.runtimeconfig.dev.json
+D:\Projetos\OlxPhoneExtraction\OlxPhoneExtraction\bin\Debug\netcoreapp2.2\OlxPhoneExtraction.dll
+D:\Projetos\OlxPhoneExtraction\OlxPhoneExtraction\obj\Debug\netcoreapp2.2\OlxPhoneExtraction.csproj.CoreCompileInputs.cache
+D:\Projetos\OlxPhoneExtraction\OlxPhoneExtraction\obj\Debug\netcoreapp2.2\OlxPhoneExtraction.AssemblyInfoInputs.cache
+D:\Projetos\OlxPhoneExtraction\OlxPhoneExtraction\obj\Debug\netcoreapp2.2\OlxPhoneExtraction.AssemblyInfo.cs
+D:\Projetos\OlxPhoneExtraction\OlxPhoneExtraction\bin\Debug\netcoreapp2.2\OlxPhoneExtraction.pdb
+D:\Projetos\OlxPhoneExtraction\OlxPhoneExtraction\obj\Debug\netcoreapp2.2\OlxPhoneExtraction.csprojAssemblyReference.cache
+D:\Projetos\OlxPhoneExtraction\OlxPhoneExtraction\obj\Debug\netcoreapp2.2\OlxPhoneExtraction.dll
+D:\Projetos\OlxPhoneExtraction\OlxPhoneExtraction\obj\Debug\netcoreapp2.2\OlxPhoneExtraction.pdb
