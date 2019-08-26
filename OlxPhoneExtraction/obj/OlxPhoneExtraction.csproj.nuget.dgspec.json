@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\OlxPhoneExtraction\\OlxPhoneExtraction\\OlxPhoneExtraction.csproj": {}
+    "D:\\Projetos\\OlxPhoneExtractor\\OlxPhoneExtraction\\OlxPhoneExtraction.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\OlxPhoneExtraction\\OlxPhoneExtraction\\OlxPhoneExtraction.csproj": {
+    "D:\\Projetos\\OlxPhoneExtractor\\OlxPhoneExtraction\\OlxPhoneExtraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\OlxPhoneExtraction\\OlxPhoneExtraction\\OlxPhoneExtraction.csproj",
+        "projectUniqueName": "D:\\Projetos\\OlxPhoneExtractor\\OlxPhoneExtraction\\OlxPhoneExtraction.csproj",
         "projectName": "OlxPhoneExtraction",
-        "projectPath": "D:\\Projetos\\OlxPhoneExtraction\\OlxPhoneExtraction\\OlxPhoneExtraction.csproj",
-        "packagesPath": "C:\\Users\\pedro.henrique\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\OlxPhoneExtraction\\OlxPhoneExtraction\\obj\\",
+        "projectPath": "D:\\Projetos\\OlxPhoneExtractor\\OlxPhoneExtraction\\OlxPhoneExtraction.csproj",
+        "packagesPath": "C:\\Users\\Pedro Franco\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\OlxPhoneExtractor\\OlxPhoneExtraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\pedro.henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pedro Franco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,10 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/conexalabs/_packaging/Infrastructure/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/conexalabs/_packaging/SIAGRIX.SDK.Tools/nuget/v3/index.json": {},
-          "https://www.myget.org/F/aspnet-contrib/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
